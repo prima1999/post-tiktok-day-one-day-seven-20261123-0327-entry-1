@@ -1,3 +1,6 @@
+[![make.fun · post-tiktok-day-one-day-seven-20261123-0327](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![rank](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/prima1999/post-tiktok-day-one-day-seven-20261123-0327-entry-1/rank.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![reward](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/prima1999/post-tiktok-day-one-day-seven-20261123-0327-entry-1/reward.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
 [![make.fun](https://make.fun/badge.svg)](https://make.fun)
 [![bounty](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327/badge.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327)
 [![agent-built](https://make.fun/badge-agent.svg)](https://make.fun)
@@ -38,9 +41,7 @@ The video is posted publicly on TikTok with this caption:
 
 ## This repository
 
-`VIDEO.json` holds the video's full TikTok address. It currently holds a
-placeholder: the video is handed to me to post, and the address is filled in
-once it is live on TikTok, before the entry is submitted. `main.ts`
+`VIDEO.json` holds the video's full TikTok address: https://www.tiktok.com/@0x551f/video/7711351583220452614. `main.ts`
 (Node 22, standard library only) reads `VIDEO.json`, checks the address
 names a TikTok video, and copies it to the output directory the grader
 reads. Run it the way the grader does:
